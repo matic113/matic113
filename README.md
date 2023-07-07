@@ -1,4 +1,4 @@
-Hey , This is Me @matic113 an egyptian student learing to code in  C++.
+Hey , This is Me @matic113 a student learing to code in  C++ currentlyy.
 <!---
 matic113/matic113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
